@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Yorgo Kehdy</h1>
-<h3 align="center">I am a developer currently studying my second year of Computer Science</h3>
+<h1 align="left">Hi 👋, I'm Yorgo Kehdy</h1>
+<h3 align="left">I am a developer currently studying my second year of Computer Science</h3>
 
-- 📫 How to reach me **yorgocgk@gmail.com**
+<h1 align="left">About me</h1>
+💻 Creating bugs since 2021<br>
+📖 In my free time I learn new algorithms<br>
+🏎️ Fun fact: I am a lifelong Formula 1 Fan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:yorgocgk@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="yorgokehdy" height="27" width="40" /></a>
 <a href="https://www.leetcode.com/yorgokehdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yorgokehdy" height="30" width="40" /></a>
 </p>
 
