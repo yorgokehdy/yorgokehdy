@@ -3,7 +3,7 @@
 
 <h1 align="left">About me</h1>
 💻 Creating bugs since 2021<br>
-📖 In my free time I learn new algorithms<br>
+📖 In my free time I like to learn new algorithms<br>
 🏎️ Fun fact: I am a lifelong Formula 1 Fan
 
 <h3 align="left">Connect with me:</h3>
