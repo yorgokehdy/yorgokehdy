@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yorgo Kehdy</h1>
-<h3 align="left">I am a developer currently in my senior year of Computer Science and taking a minor in data analytics</h3>
+<h3 align="left">I am working as an AI developer at <a href="https://apgar-group.com">APGAR</a>, and recently graduated with a B.S. in Computer Science and a minor in Data Analytics</h3>
 
 <h1 align="left">About me</h1>
 💻 Creating bugs since 2021<br>
